@@ -1,5 +1,5 @@
-public class Test {
-
+public class Tesdddt {
+ 
 public static void main (String args[]){
 
 	double x = 3.0;
